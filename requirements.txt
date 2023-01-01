@@ -1,0 +1,8 @@
+h5py==3.7.0
+matplotlib==3.6.2
+numpy==1.24.1
+pytorch_lightning==1.8.6
+scikit_learn==1.2.0
+torch==1.13.1
+torchmetrics==0.11.0
+torchvision==0.14.1
