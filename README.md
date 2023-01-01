@@ -20,4 +20,4 @@ It is recommended to create a virtual environment and run
 ## Running the code 
 ```python main.py```
 
-It is important to note that the main function in `main.py`, trains three modules sequentially (RPNHead ,BoxHead, and MaskHead) -- the different training instances  are specified with appropriate comments. For better results it is recommended to train all three modules after the provided sequential training regime. 
+It is important to note that the main function in `main.py`, trains three modules sequentially (RPNHead ,BoxHead, and MaskHead) -- the different training instances  are specified with appropriate comments. For better results it is recommended to train all three modules together after the provided sequential training regime. 
