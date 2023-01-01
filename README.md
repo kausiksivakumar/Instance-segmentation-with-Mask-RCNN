@@ -1,6 +1,6 @@
 # Instance-segmentation-with-Mask-RCNN
 
-This is the unofficial implementation of the paper [Mask-RCNN](https://arxiv.org/abs/1703.06870). We demonstrate Mask RCNN for a subset of COCO dataset - which segments three categories namely people, animals and vehicles.
+This is the unofficial implementation of the paper [Mask-RCNN](https://arxiv.org/abs/1703.06870) using [pytorch-lightning](https://www.pytorchlightning.ai/). We demonstrate Mask RCNN for a subset of COCO dataset - which segments three categories namely people, animals and vehicles.
 
 ## Downoad dataset and required modules by running 
 ```
